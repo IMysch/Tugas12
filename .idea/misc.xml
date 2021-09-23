@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Movieapp/app/src/main/res/drawable/vcs.xml" value="0.1" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Movieapp/app/src/main/res/layout/activity_detail_movie.xml" value="0.152" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Movieapp/app/src/main/res/layout/favorite_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Movieapp/app/src/main/res/layout/fragment_favorite1.xml" value="0.1" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Movieapp/app/src/main/res/layout/fragment_read_user.xml" value="0.16" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Movieapp/app/src/main/res/layout/fragment_update_user.xml" value="0.1" />
+        <entry key="..\:/Users/asus/AndroidStudioProjects/Movieapp/app/src/main/res/layout/misc.xml" value="0.1" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/Movieapp2/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/Movieapp2/app/src/main/res/drawable/ic_baseline_local_movies_24.xml" value="0.10648148148148148" />
         <entry key="..\:/Users/asus/AndroidStudioProjects/Movieapp2/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.1" />

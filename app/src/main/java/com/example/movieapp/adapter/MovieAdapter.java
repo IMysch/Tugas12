@@ -19,6 +19,7 @@ import com.example.movieapp.DetailMovieActivity;
 import com.example.movieapp.R;
 import com.example.movieapp.model.Result;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder> {
@@ -29,13 +30,19 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder> 
 
     private List<Result> resultslist;
     private  int rowLayout;
+    private List<Result> resultslist =new ArrayList<>();
+    private int Rowlayout;
     private Context context;
 
     public MovieAdapter(List<Result> resultslist, int rowLayout, Context context) {
+    public MovieAdapter(List<Result> resultslist,int rowlayout, Context context) {
         this.resultslist = resultslist;
         this.rowLayout = rowLayout;
+        this.Rowlayout = rowlayout;
         this.context = context;
     }
+     public MovieAdapter(FragmentActivity activity, List<Result> result) {
+        }
 
     @NonNull
     @Override
